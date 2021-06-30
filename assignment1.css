@@ -1,0 +1,229 @@
+*{
+    font-family: poppins;
+}
+
+.filter-title{
+    width: 512px;
+    height: 51px;
+    font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60; 
+}
+
+header{
+    background-color: #ce0505;
+    height: 80px;
+    position: relative;
+}
+
+.logo-span{
+    background-color: white;
+    border-radius: 50%;
+    padding: 5px 15px;
+    position: absolute;
+    left: 80px;
+    top: 13px;
+}
+
+
+.logo{
+    color:#ce0505;
+    font-size: 33px;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
+
+.login-signup{
+    position: absolute;
+    right: 80px;
+    top: 20px; 
+    word-spacing: 10px;
+}
+
+.login{
+    color: white;
+    text-decoration: none;
+
+}
+
+.createanacc{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    word-spacing: normal;
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+
+section{
+    position: relative;
+    padding: 20px 50px;
+}
+
+.title-text{
+    font-weight: 600;
+    color:#192f60;
+}
+
+.article-filter{
+    display: inline-block;
+     width: 260px;
+      height: 682px; 
+     border: 1px #ffffff solid;
+     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+     padding: 17px 25px 31px 26px;
+     background-color: #ffffff;
+     margin-right: 14px;
+}
+
+.result1{
+    width: 794px;
+     height: 291px;
+     border: 1px #ffffff solid;
+     line-height: 1px;
+      margin-bottom: 10px;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+}
+
+.result2{
+    width: 794px; 
+    height: 291px;
+    border: 1px #ffffff solid;
+    line-height: 1px;
+    margin-top: 10px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+}
+
+/* .article-filter{
+    display: inline-block;
+     width: 260px;
+      height: 682px; 
+     border: 1px black solid;
+     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+     padding: 17px 25px 31px 26px;
+     background-color: #ffffff;
+} */
+
+.subtitle{
+    font-family: Poppins;
+  font-size: 14px;
+  margin: 22px 157px 15px 1px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.subtext{
+    font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+
+.image{
+display: inline-block;
+/* margin: 20px; */
+}
+
+.img-description{
+    display: inline-block;
+    vertical-align: top;
+    }
+
+
+.pagination {
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    
+  }
+  
+  .pagination a {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin: 0 4px;
+    border-radius: 7px;
+  border: solid 1px #8c96ab;
+  width: 36px;
+  height: 36px;
+  }
+  .pagination a.active {
+     
+    color: #ffffff;
+    border: 1px solid #8c96ab;
+    background-color: #8c96ab;
+  }
+
+  .cuisine-name{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    /* line-height: 1.53; */
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    
+  }
+
+  .fort{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-bottom: 4px;
+}
+
+  .Address{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-top: 4px;
+  }
+
+  #margin2{
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+#margin{
+    margin-left: 20px;
+}
